@@ -686,6 +686,10 @@ body {
   left: 25%;
 }
 
+.members-head{
+margin: 7px 0px;  
+}
+
 @media (max-width: 950px) {
   .team2 {
     margin-top: 0rem;
