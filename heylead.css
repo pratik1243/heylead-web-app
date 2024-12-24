@@ -1040,7 +1040,7 @@ margin: 7px 0px;
 .my-image {
   height: 300px;
   width: 350px;
-  background-image: url(robert.png);
+  background-image: url('robert.png');
   background-size: contain;
   background-repeat: no-repeat;
   transform: scale(1.3);
